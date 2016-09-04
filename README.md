@@ -18,3 +18,4 @@ On Ubuntu 16.04 Xenial Xirrus, this is located at
 * pantone-fall-2016.gpl - from http://www.pantone.com/fashion-color-report-fall-2016?from=topNav#potters-clay
 * pantone-spring-2016.gpl - from http://www.pantone.com/fashion-color-report-spring-2016?from=topNav
 * pantone-fall-2015.gpl - from http://www.pantone.com/pages/fcr/?season=fall&year=2015&pid=11
+* pantone-spring-2015.gpl - from http://www.pantone.com/pages/fcr/?season=spring&year=2015&pid=11#titanium
